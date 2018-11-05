@@ -21,4 +21,4 @@ Example output:
 77583|3140776|"monster_moo@example.com"|"cow"
 ```
 
-Lua v5.3.4 self-contained binary ([Windows](http://www.aspisys.com/lua.exe) and [Linux i386](http://www.aspisys.com/lua)) with built-in lsqlite (as sqlite3) and LFS libraries.
+Lua v5.3.5 self-contained binary ([Windows](http://www.aspisys.com/lua.exe) and [Linux i386](http://www.aspisys.com/lua)) with built-in lsqlite (as sqlite3) and LFS libraries.
