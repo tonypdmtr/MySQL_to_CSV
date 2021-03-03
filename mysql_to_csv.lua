@@ -1,5 +1,5 @@
 --==============================================================================
--- Convert MySQL 'framed' table into CSV                         
+-- Convert MySQL or SQLite3 'framed' table into CSV              <tonyp@acm.org>
 --==============================================================================
 
 --[[ Example input

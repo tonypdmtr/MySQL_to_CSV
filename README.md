@@ -1,5 +1,6 @@
-# MySQL_to_CSV
-Convert MySQL 'framed' table into CSV   
+# MySQL_to_CSV and SQLite3_to_CSV
+Convert MySQL 'framed' table into CSV.
+It also works with SQLite3 -table output.
 
 Example input:
 ```
@@ -21,4 +22,4 @@ Example output:
 77583|3140776|"monster_moo@example.com"|"cow"
 ```
 
-Lua v5.3.5 self-contained binary ([Windows](http://www.aspisys.com/lua.exe) and [Linux i386](http://www.aspisys.com/lua)) with built-in lsqlite (as sqlite3) and LFS libraries.
+Lua v5.3.6 self-contained binary ([Windows](http://www.aspisys.com/lua.exe) and [Linux i386](http://www.aspisys.com/lua)) with built-in lsqlite (as sqlite3) and LFS libraries.
